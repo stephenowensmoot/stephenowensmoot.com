@@ -29,6 +29,8 @@ collections:
             fields:
               - { label: Professional headline, name: tagline, widget: string }
               - { label: Homepage introduction, name: introduction, widget: text }
+              - { label: Profile photo, name: profile_image, widget: image, required: false, hint: "Upload a JPG, PNG, or WebP image." }
+              - { label: Profile photo description, name: profile_image_alt, widget: string, required: false, hint: "Briefly describe the photo for visitors using screen readers." }
               - { label: Public email, name: email, widget: string }
               - { label: Location, name: location, widget: string, required: false }
               - { label: LinkedIn URL, name: linkedin, widget: string, required: false }
@@ -50,6 +52,8 @@ collections:
                   - { label: Type, name: type, widget: string }
                   - { label: Title, name: title, widget: string }
                   - { label: Description, name: description, widget: text }
+                  - { label: Image, name: image, widget: image, required: false }
+                  - { label: Image description, name: image_alt, widget: string, required: false }
                   - { label: Link, name: url, widget: string, required: false }
                   - { label: Link label, name: link_label, widget: string, default: Explore }
               - label: Current focus
@@ -58,6 +62,14 @@ collections:
                 fields:
                   - { label: Label, name: label, widget: string }
                   - { label: Description, name: text, widget: text }
+              - label: Photo gallery
+                name: gallery
+                widget: list
+                required: false
+                fields:
+                  - { label: Photo, name: image, widget: image }
+                  - { label: Photo description, name: alt, widget: string, hint: "Describe the important visual details." }
+                  - { label: Caption, name: caption, widget: string, required: false }
               - { label: Last updated, name: last_updated, widget: string }
 
           - label: CV
@@ -109,6 +121,8 @@ collections:
               - { label: Status or year, name: status, widget: string }
               - { label: Title, name: title, widget: string }
               - { label: Description, name: description, widget: text }
+              - { label: Featured image, name: image, widget: image, required: false }
+              - { label: Image description, name: image_alt, widget: string, required: false }
               - { label: Tags, name: tags, widget: list, field: { label: Tag, name: tag, widget: string }, required: false }
               - { label: Link, name: url, widget: string, required: false }
 
@@ -123,8 +137,11 @@ collections:
               - { label: Date, name: date, widget: string }
               - { label: Title, name: title, widget: string }
               - { label: Program, host, or venue, name: source, widget: string }
+              - { label: Thumbnail image, name: image, widget: image, required: false }
+              - { label: Image description, name: image_alt, widget: string, required: false }
               - { label: Link, name: url, widget: string, required: false }
               - { label: Link label, name: link_label, widget: string, default: Open }
+              - { label: YouTube or Vimeo URL, name: video_url, widget: string, required: false, hint: "Paste the normal video page URL. The site will create the embedded player." }
 
           - label: Contact page
             name: contact
