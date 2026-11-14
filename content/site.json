@@ -389,20 +389,7 @@
         "venue": "Religious Education Symposium in Honor of Sidney B. Sperry, Provo, Utah"
       }
     ],
-    "awards": [
-      {
-        "date": "20XX",
-        "title": "Award, fellowship, or distinction"
-      },
-      {
-        "date": "20XX–Present",
-        "title": "Professional service or affiliation"
-      },
-      {
-        "date": "20XX",
-        "title": "Grant, appointment, or recognition"
-      }
-    ]
+    "awards": []
   },
   "projects": [
     {
