@@ -1,0 +1,130 @@
+{
+  "site": {
+    "tagline": "Researcher · Writer · Public Scholar",
+    "introduction": "This site brings together my work, experience, current projects, and public conversations.",
+    "email": "hello@stephenowensmoot.com",
+    "location": "City, State",
+    "linkedin": "",
+    "google_scholar": "",
+    "orcid": ""
+  },
+  "home": {
+    "bio_heading": "Ideas, evidence, and the stories we tell about the past.",
+    "bio_primary": "I am a researcher and writer with interests that cross history, culture, and public scholarship. My work is grounded in careful research and a commitment to making complex ideas useful and accessible.",
+    "bio_secondary": "This introductory biography is placeholder copy. Replace it with a concise two- or three-paragraph bio that explains your current role, areas of expertise, and the questions that animate your work.",
+    "featured": [
+      {
+        "type": "Research project",
+        "title": "Selected project title",
+        "description": "Add a short description of a major research, writing, or collaborative project.",
+        "url": "projects.html",
+        "link_label": "Explore"
+      },
+      {
+        "type": "Writing",
+        "title": "Featured publication",
+        "description": "Highlight a recent article, book chapter, essay, or other publication here.",
+        "url": "projects.html",
+        "link_label": "Read more"
+      },
+      {
+        "type": "Conversation",
+        "title": "Podcast or interview",
+        "description": "Feature a public conversation that gives visitors an accessible introduction to your work.",
+        "url": "media.html",
+        "link_label": "Listen"
+      }
+    ],
+    "current_focus": [
+      { "label": "Researching", "text": "A brief note about your current research question or long-term project." },
+      { "label": "Writing", "text": "The article, book, paper, or public-facing work currently on your desk." },
+      { "label": "Reading", "text": "A rotating title or topic that offers visitors a small window into your interests." }
+    ],
+    "last_updated": "November 2026"
+  },
+  "cv": {
+    "profile": "Add a concise professional summary here. In three or four sentences, describe your current position, research interests, areas of expertise, and the thread connecting your work.",
+    "experience": [
+      {
+        "date": "20XX — Present",
+        "title": "Current position or role",
+        "organization": "Organization · Location",
+        "description": "Summarize the scope of your role, your primary responsibilities, and one or two meaningful contributions."
+      },
+      {
+        "date": "20XX — 20XX",
+        "title": "Previous position or role",
+        "organization": "Organization · Location",
+        "description": "Add a short description that focuses on the work most relevant to your public professional profile."
+      }
+    ],
+    "education": [
+      {
+        "date": "20XX",
+        "degree": "Degree and field",
+        "institution": "University or institution",
+        "detail": "Optional: dissertation, thesis, concentration, honors, or advisor."
+      },
+      {
+        "date": "20XX",
+        "degree": "Degree and field",
+        "institution": "University or institution",
+        "detail": ""
+      }
+    ],
+    "publications": [
+      { "title": "“Title of article or chapter.”", "citation": "Publication or volume, year." },
+      { "title": "Title of Book or Edited Volume.", "citation": "Publisher, year." },
+      { "title": "“Title of essay or contribution.”", "citation": "Publication or platform, year." }
+    ],
+    "presentations": [
+      { "date": "20XX", "title": "“Title of presentation or lecture”", "venue": "Conference or venue · Location" },
+      { "date": "20XX", "title": "“Title of presentation or lecture”", "venue": "Conference or venue · Location" }
+    ],
+    "awards": [
+      { "date": "20XX", "title": "Award, fellowship, or distinction" },
+      { "date": "20XX–Present", "title": "Professional service or affiliation" },
+      { "date": "20XX", "title": "Grant, appointment, or recognition" }
+    ]
+  },
+  "projects": [
+    {
+      "type": "Research",
+      "status": "Ongoing",
+      "title": "Primary research project",
+      "description": "Describe the central question, why the project matters, and what form the final work will take. This could be a book, article series, digital resource, or collaborative initiative.",
+      "tags": ["Research", "Writing", "Archive"],
+      "url": ""
+    },
+    {
+      "type": "Publication",
+      "status": "20XX",
+      "title": "Featured publication or body of work",
+      "description": "Give visitors enough context to understand the argument, contribution, or outcome. Link to the publication, publisher, DOI, or downloadable manuscript.",
+      "tags": ["Publication", "History"],
+      "url": ""
+    },
+    {
+      "type": "Collaboration",
+      "status": "Ongoing",
+      "title": "Collaborative or public-facing project",
+      "description": "Introduce a partnership, public history effort, course, event series, or resource that demonstrates another dimension of your work.",
+      "tags": ["Collaboration", "Public scholarship"],
+      "url": ""
+    }
+  ],
+  "media": [
+    { "category": "podcast", "date": "Month 20XX", "title": "Episode or conversation title", "source": "Podcast name · Host name", "url": "", "link_label": "Listen" },
+    { "category": "interview", "date": "Month 20XX", "title": "Interview or feature title", "source": "Publication, program, or organization", "url": "", "link_label": "View" },
+    { "category": "lecture", "date": "Month 20XX", "title": "Lecture or presentation title", "source": "Event or institution · Location", "url": "", "link_label": "Watch" },
+    { "category": "podcast", "date": "Month 20XX", "title": "Another podcast conversation", "source": "Podcast name · Host name", "url": "", "link_label": "Listen" }
+  ],
+  "contact": {
+    "introduction": "I welcome thoughtful inquiries about research, speaking, interviews, projects, and collaboration.",
+    "inquiry_types": [
+      { "title": "Speaking & events", "description": "Lectures, panels, conferences, workshops, and other public programs." },
+      { "title": "Media & interviews", "description": "Podcasts, written interviews, commentary, and background conversations." },
+      { "title": "Research & projects", "description": "Questions, collaboration proposals, publications, and related opportunities." }
+    ]
+  }
+}
