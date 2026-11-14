@@ -1,0 +1,52 @@
+html, body { margin: 0; min-height: 100%; background: #dfe2df; }
+body { padding: 0; }
+.cms-preview { min-height: 100vh; color: var(--ink); }
+.preview-toolbar { position: sticky; z-index: 100; top: 0; display: flex; align-items: center; justify-content: space-between; gap: 18px; padding: 11px 16px; background: #17241f; color: #fff; font-family: var(--utility); box-shadow: 0 2px 10px rgba(0,0,0,.16); }
+.preview-toolbar-label { flex: 0 0 auto; font-size: 11px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; }
+.preview-toolbar-pages { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 5px; }
+.preview-toolbar button { padding: 5px 9px; border: 1px solid rgba(255,255,255,.35); border-radius: 20px; background: transparent; color: inherit; font-family: inherit; font-size: 10px; cursor: pointer; }
+.preview-toolbar button.active, .preview-toolbar button:hover { background: #fff; color: #17241f; }
+.preview-canvas { width: min(100%, 1080px); margin: 0 auto; background: var(--paper); box-shadow: 0 12px 40px rgba(0,0,0,.18); }
+.preview-canvas .container { width: min(100% - 36px, 980px); }
+.preview-canvas .nav-shell { min-height: 62px; }
+.preview-canvas .wordmark { font-size: 12px; }
+.preview-canvas .wordmark-mark { width: 31px; height: 31px; font-size: 8px; }
+.preview-canvas .site-nav { gap: 18px; font-size: 10px; }
+.preview-canvas .site-nav span { padding: 21px 0; color: var(--ink-soft); }
+.preview-canvas .site-nav .preview-nav-current { color: var(--ink); border-bottom: 1px solid currentColor; }
+.preview-canvas .hero { padding: 65px 0 35px; }
+.preview-canvas .hero h1 { font-size: clamp(54px, 10vw, 104px); }
+.preview-canvas .hero-grid { gap: 45px; }
+.preview-canvas .lede { font-size: clamp(20px, 3vw, 27px); }
+.preview-canvas .hero-rule { margin-top: 45px; }
+.preview-canvas .section { padding: 70px 0; }
+.preview-canvas .section h2, .preview-canvas .contact-band h2 { font-size: clamp(34px, 5vw, 54px); }
+.preview-canvas .work-card { min-height: 330px; }
+.preview-canvas .work-card h3 { font-size: 27px; }
+.preview-link { font-family: var(--utility); font-size: 10px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; }
+.preview-canvas .page-hero { padding: 64px 0 58px; }
+.preview-canvas .page-hero h1 { font-size: clamp(52px, 9vw, 92px); }
+.preview-cv { padding-top: 60px; padding-bottom: 80px; }
+.preview-canvas .cv-section { padding-bottom: 45px; margin-bottom: 45px; }
+.preview-canvas .project-list, .preview-canvas .media-section { padding-bottom: 80px; }
+.preview-canvas .project-row { grid-template-columns: 130px 1fr 45px; gap: 30px; padding: 44px 0; }
+.preview-canvas .media-row { grid-template-columns: 125px 1fr auto; gap: 24px; }
+.preview-video { grid-column: 2 / -1; display: flex; flex-direction: column; gap: 4px; padding: 22px; background: var(--ink); color: white; }
+.preview-video span { color: #91b3bc; font-family: var(--utility); font-size: 10px; letter-spacing: .1em; text-transform: uppercase; }
+.preview-video strong { overflow-wrap: anywhere; font-size: 12px; font-weight: 400; }
+.preview-canvas .contact-page .site-header { border-color: rgba(255,255,255,.2); }
+.preview-canvas .contact-page .wordmark, .preview-canvas .contact-page .site-nav span { color: var(--paper); }
+.preview-canvas .contact-page .site-nav span { opacity: .65; }
+.preview-canvas .contact-page .site-nav .preview-nav-current { opacity: 1; }
+
+@media (max-width: 720px) {
+  .preview-toolbar { align-items: flex-start; flex-direction: column; }
+  .preview-toolbar-pages { justify-content: flex-start; }
+  .preview-canvas .site-nav { display: none; }
+  .preview-canvas .hero-grid, .preview-canvas .section-grid, .preview-canvas .contact-grid { grid-template-columns: 1fr; }
+  .preview-canvas .card-grid, .preview-canvas .inquiry-grid { grid-template-columns: 1fr; }
+  .preview-canvas .work-card, .preview-canvas .work-card + .work-card { min-height: 260px; padding: 22px 0; border-right: 0; border-bottom: 1px solid var(--line); }
+  .preview-canvas .project-row, .preview-canvas .media-row { grid-template-columns: 1fr; }
+  .preview-canvas .project-meta { flex-direction: row; }
+  .preview-video { grid-column: 1; }
+}

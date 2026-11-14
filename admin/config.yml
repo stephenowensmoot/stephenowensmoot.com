@@ -17,6 +17,8 @@ public_folder: /assets/uploads
 collections:
   - name: website
     label: Website
+    editor:
+      visualEditing: true
     files:
       - name: content
         label: Website content
