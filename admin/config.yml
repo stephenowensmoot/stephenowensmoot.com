@@ -1,6 +1,6 @@
-backend:
+ backend:
   name: github
-  repo: YOUR_GITHUB_USERNAME/stephenowensmoot.com
+  repo: stephenowensmoot/stephenowensmoot.com
   branch: main
   # Add this when the Cloudflare OAuth worker is deployed:
   # base_url: https://YOUR-AUTH-WORKER.workers.dev
