@@ -1,19 +1,19 @@
 {
   "site": {
     "google_scholar": "",
-    "profile_image": "/assets/uploads/img_4737.jpeg",
+    "profile_image": "",
     "tagline": "Researcher · Writer · Public Scholar",
     "profile_image_alt": "",
     "location": "City, State",
     "introduction": "I am a scholar of ancient scripture and the Latter-day Saint religious tradition. My research explores the Hebrew Bible, ancient Egypt, Restoration scripture, and Latter-day Saint history.",
     "orcid": "",
     "email": "hello@stephenowensmoot.com",
-    "linkedin": ""
+    "linkedin": "https://www.linkedin.com/in/stephen-smoot-2515a01a5/"
   },
   "home": {
-    "bio_heading": "Ideas, evidence, and the stories we tell about the past.",
-    "bio_primary": "I am a researcher and writer with interests that cross history, culture, and public scholarship. My work is grounded in careful research and a commitment to making complex ideas useful and accessible.",
-    "bio_secondary": "This introductory biography is placeholder copy. Replace it with a concise two- or three-paragraph bio that explains your current role, areas of expertise, and the questions that animate your work.",
+    "bio_heading": "Biography",
+    "bio_primary": "Stephen O. Smoot holds a doctorate in Semitic and Egyptian Languages and Literature from the Catholic University of America. He previously earned a master’s degree in Near and Middle Eastern Civilizations, with a concentration in Egyptology, from the University of Toronto, and bachelor’s degrees in Ancient Near Eastern Studies (Hebrew Bible emphasis) and German Studies from Brigham Young University.",
+    "bio_secondary": "Stephen currently serves as an adjunct instructor of ancient scripture at Brigham Young University and as a research associate with the Ancient America Foundation. From 2020 to 2025, he was a research associate with the B. H. Roberts Foundation, and from 2015 to 2020, he held the same role with Book of Mormon Central.",
     "featured": [
       {
         "type": "Research project",
@@ -55,54 +55,293 @@
     "last_updated": "November 2026"
   },
   "cv": {
-    "profile": "Add a concise professional summary here. In three or four sentences, describe your current position, research interests, areas of expertise, and the thread connecting your work.",
+    "profile": "My academic and professional work centers on the study of ancient scripture and the Latter-day Saint religious tradition, with particular interests in Egyptology, biblical studies, and the history, doctrine, and scripture of The Church of Jesus Christ of Latter-day Saints. Below is an overview of my academic training, research, publications, teaching, and professional experience.",
     "experience": [
       {
-        "date": "20XX — Present",
-        "title": "Current position or role",
-        "organization": "Organization · Location",
-        "description": "Summarize the scope of your role, your primary responsibilities, and one or two meaningful contributions."
+        "date": "2025 — Present",
+        "title": "Research Associate",
+        "organization": "Ancient America Foundation",
+        "description": "Conducts interdisciplinary research on the Book of Mormon and other books of Latter-day Saint scripture, as well as research on the history and doctrine of The Church of Jesus Christ of Latter-day Saints."
       },
       {
-        "date": "20XX — 20XX",
-        "title": "Previous position or role",
-        "organization": "Organization · Location",
-        "description": "Add a short description that focuses on the work most relevant to your public professional profile."
+        "date": "2022 — Present",
+        "title": "Adjunct Instructor",
+        "organization": "Ancient Scripture, Brigham Young University",
+        "description": "Teaches undergraduate courses in ancient scripture, emphasizing historical context, interpretation/hermeneutics, and the religious and cultural backgrounds of Latter-day Saint history and scriptural traditions."
+      },
+      {
+        "date": "2020 — 2025",
+        "title": "Research Associate",
+        "organization": "B. H. Roberts Foundation",
+        "description": "Conducted historical research on a variety of topics related to Latter-day Saint scripture and history, contributing to scholarly publications and educational resources."
+      },
+      {
+        "date": "2015 — 2020",
+        "title": "Research Associate",
+        "organization": "Book of Mormon Central / Scripture Central",
+        "description": "Researched and produced scholarly and educational content on the Book of Mormon and the Pearl of Great Price, drawing on biblical studies, Egyptology, ancient Near Eastern studies, Mesoamerican studies, and Latter-day Saint history."
       }
     ],
     "education": [
       {
-        "date": "20XX",
-        "degree": "Degree and field",
-        "institution": "University or institution",
-        "detail": "Optional: dissertation, thesis, concentration, honors, or advisor."
+        "date": "2020 — 2026",
+        "degree": "Ph.D., Semitic and Egyptian Languages and Literature",
+        "institution": "The Catholic University of America",
+        "detail": "Dissertation: “A Comparative Study of the Cosmogonies of Ancient Egypt and the Hebrew Bible”"
       },
       {
-        "date": "20XX",
-        "degree": "Degree and field",
-        "institution": "University or institution",
+        "date": "2020 — 2022",
+        "degree": "M.A., Semitic and Egyptian Languages and Literature",
+        "institution": "The Catholic University of America",
         "detail": ""
+      },
+      {
+        "date": "2016 — 2018",
+        "degree": "M.A., Near and Middle Eastern Civilizations (Egyptology)",
+        "institution": "The University of Toronto"
+      },
+      {
+        "date": "2011 — 2015",
+        "degree": "B.A., Ancient Near Eastern Studies (Hebrew Bible)",
+        "institution": "Brigham Young University"
+      },
+      {
+        "date": "2011 — 2015",
+        "degree": "B.A., German Studies",
+        "institution": "Brigham Young University"
       }
     ],
     "publications": [
       {
-        "title": "“Title of article or chapter.”",
-        "citation": "Publication or volume, year."
+        "title": "With Kerry Hull, “Korihor’s Atheism Reconsidered in its Ancient Context,”",
+        "citation": "in In the Eyes of the Ancients: Historical Perspectives on the Book of Mormon, ed. Ryan Sharp and Kerry Hull (Provo, UT: Religious Studies Center, Brigham Young University; Salt Lake City: Deseret Book, 2026), 271–91."
       },
       {
-        "title": "Title of Book or Edited Volume.",
-        "citation": "Publisher, year."
+        "title": "“‘Sight and Power to Translate’: Revelatory Translation, Seership, and Joseph Smith’s Scriptural Productions,”",
+        "citation": "BYU Studies Quarterly 64, no. 4 (2025): 59–83."
       },
       {
-        "title": "“Title of essay or contribution.”",
-        "citation": "Publication or platform, year."
+        "title": "“Joseph Smith Jr. as a Translator: The Book of Abraham as a Case Study,”",
+        "citation": "Interpreter: A Journal of Latter-day Saint Faith and Scholarship 64 (2025): 345–75."
+      },
+      {
+        "title": "“In the Beginning: Grounding Joseph Smith’s Cosmology in Genesis 1,”",
+        "citation": "in “Open Thou Mine Eyes”: Defending the Old Testament in Latter-day Saint Doctrine, ed. Jared Riddick et al. (Redding, CA: FAIR, 2025), 274–304."
+      },
+      {
+        "title": "“A Tale of Two Smiths: Joseph Smith, Ethan Smith, and the View of the Hebrews Controversy,”",
+        "citation": "in A Record Shall be Kept: Understanding and Defending the History of the Church: Proceedings of the 2024 FAIR Virtual Conference, ed. Jared Riddick, Sarah N. Allen, and Trevor Holyoak (Redding, CA: FAIR, 2025), 273–96."
+      },
+      {
+        "title": "“Is the Book of Mormon a ‘Translation’ or a ‘Revelation’?”",
+        "citation": "in Defending the Book of Mormon: Proceedings of the 2023 FAIR Virtual Conference, ed. Scott Gordon, Trevor Holyoak, and Jared Riddick (Redding, CA: FAIR, 2025), 205–22."
+      },
+      {
+        "title": "“Abraham the Astronomer,”",
+        "citation": "in Abraham and His Family in Scripture, History, and Tradition, ed. Jeffrey M. Bradshaw, John S. Thompson, and Matthew L. Bowen (Orem, UT: Interpreter Foundation, 2025), 101–34."
+      },
+      {
+        "title": "“‘Look Toward the Heavens and Count the Stars’: Abraham the Astronomer in Second Temple and Rabbinic Judaism,”",
+        "citation": "in Imitating Abraham: Ritual and Exemplarity in Jewish and Christian Contexts, ed., Claudia D. Bergmann and Thomas R. Blanton IV, Jewish and Christian Perspectives 42 (Leiden: Brill, 2025), 78–105."
+      },
+      {
+        "title": "The Nazi Secret Police Files on the Latter-day Saints.",
+        "citation": "Latter-day Saint Historical Studies 26, no. 1 (Spring 2025)."
+      },
+      {
+        "title": "The Pearl of Great Price: A Study Edition for Latter-day Saints, 2nd rev. ed.",
+        "citation": "(Orem, UT: Interpreter Foundation, 2025). Originally published Springville, UT: Book of Mormon Central, 2022."
+      },
+      {
+        "title": "With Neal Rappleye, “Stephen Burnett versus the Eight Witnesses: An Exercise in Mature Historical Thinking,”",
+        "citation": "Religious Educator 25, no. 2 (2024): 27–63."
+      },
+      {
+        "title": "“Temple Themes in the Book of Abraham,”",
+        "citation": "Interpreter: A Journal of Latter-day Saint Faith and Scholarship 60 (2024): 211–37."
+      },
+      {
+        "title": "“An Egyptian View of the Monotheism of Second Isaiah,”",
+        "citation": "Catholic Biblical Quarterly 86, no. 1 (2024): 15–36."
+      },
+      {
+        "title": "“Joseph Smith’s 1836 Vision of the Celestial Kingdom: A Historical and Contextual Analysis,”",
+        "citation": "in Joseph Smith as a Visionary: Heavenly Manifestations in the Latter Days, ed. Alonzo L. Gaskill, Stephan D. Taeger, Derek R. Sainsbury, and Roger G. Christensen (Provo, UT: Religious Studies Center, Brigham Young University; Salt Lake City: Deseret Book, 2024), 209–27."
+      },
+      {
+        "title": "“Temple Themes in the Book of Abraham,”",
+        "citation": "in The Temple: Plates, Patterns, and Patriarchs, ed. Stephen D. Ricks and Jeffrey M. Bradshaw (Orem, UT: Interpreter Foundation, 2024), 85–118."
+      },
+      {
+        "title": "With Brian C. Passantino, Joseph Smith’s Uncanonized Revelations",
+        "citation": "(Provo, UT: Religious Studies Center, Brigham Young University; Salt Lake City: Deseret Book, 2024)."
+      },
+      {
+        "title": "“A Reconsideration of the Berliner Lederhandschrift (pBerlin 3029) as Königsnovelle,”",
+        "citation": "Journal for the Society for the Study of Egyptian Antiquities 50 (2023–2024): 43–52."
+      },
+      {
+        "title": "“The Symbolism of the Cupped Hand in Ancient Egypt and Israel: Iconography, Text, and Artifact,”",
+        "citation": "in The Temple: Symbols, Sermons, and Settings, ed. Stephen D. Ricks and Jeffrey M. Bradshaw (Orem, UT: Interpreter Foundation, 2023), 99–116."
+      },
+      {
+        "title": "With Kerry Hull, “Book of Mormon ‘Trinitarianism’ and the Nature of Jesus Christ: Old and New World Contexts,”",
+        "citation": "in I Glory in My Jesus: Understanding Christ in the Book of Mormon, ed. John Hilton III, Nicholas J. Frederick, Mark D. Ogletree, and Krystal V. L. Pierce (Provo, UT: Religious Studies Center, Brigham Young University; Salt Lake City: Deseret Book, 2023), 187–209."
+      },
+      {
+        "title": "“Did Joseph Smith Use a Seer Stone in the Translation of the Book of Abraham?”",
+        "citation": "Religious Educator 23, no. 2 (2022): 65–107."
+      },
+      {
+        "title": "With Kerry Muhlestein, “Prophets, Pagans, and Papyri: The Jews of Greco-Roman Egypt and the Transmission of the Book of Abraham,”",
+        "citation": "BYU Studies Quarterly 61, no. 2 (2022): 105–34."
+      },
+      {
+        "title": "“Apologetics and Antiquity: Book of Mormon Reception, 1830–1844,”",
+        "citation": "Journal of Mormon History 48, no. 4 (Fall 2022): 1–31."
+      },
+      {
+        "title": "With John Gee, Kerry Muhlestein, and John S. Thompson, A Guide to the Book of Abraham.",
+        "citation": "BYU Studies Quarterly 61, no. 4 (2022)."
+      },
+      {
+        "title": "“Framing the Book of Abraham: Presumptions and Paradigms,”",
+        "citation": "Interpreter: A Journal of Latter-day Saint Faith and Scholarship 47 (2021): 263–339."
+      },
+      {
+        "title": "“‘Thou Wast Chosen Before Thou Wast Born’: An Egyptian Context for the Election of Abraham,”",
+        "citation": "Religious Educator 22, no. 1 (2021): 101–21."
+      },
+      {
+        "title": "“‘I am a Son of God’: Moses’ Prophetic Call and Ascent into the Divine Council,”",
+        "citation": "in Tracing Ancient Threads in the Book of Moses: Inspired Origins, Temple Contexts, and Literary Qualities, 2 vols., ed. Jeffrey M. Bradshaw et al. (Orem, UT: Interpreter Foundation, 2021), 2:923–42."
+      },
+      {
+        "title": "“Jacob—The Prophet of Social Justice,”",
+        "citation": "Interpreter: A Journal of Latter-day Saint Faith and Scholarship 41 (2020): 211–18."
+      },
+      {
+        "title": "“Notes on Book of Mormon Heads,”",
+        "citation": "Interpreter: A Journal of Latter-day Saint Faith and Scholarship 40 (2020): 263–82."
+      },
+      {
+        "title": "“‘From the Catecombs of Egypt’: Latter-day Saint Engagement with Ancient Egypt and the Contest of Religious Identity,”",
+        "citation": "Journal of Mormon History 46, no. 4 (Fall 2020): 1–44."
+      },
+      {
+        "title": "“Feasting on the Book of Mormon,”",
+        "citation": "Interpreter: A Journal of Latter-day Saint Faith and Scholarship 31 (2019): 143–50."
+      },
+      {
+        "title": "“Translating the New Testament for Latter day Saints,”",
+        "citation": "Interpreter: A Journal of Latter-day Saint Faith and Scholarship 31 (2019): 95–110."
+      },
+      {
+        "title": "“Et Incarnatus Est: The Imperative for Book of Mormon Historicity,”",
+        "citation": "Interpreter: A Journal of Mormon Scripture 30 (2018): 125–62."
+      },
+      {
+        "title": "“Pressing Forward with the Book of Abraham,”",
+        "citation": "Interpreter: A Journal of Mormon Scripture 28 (2018): 299–308."
+      },
+      {
+        "title": "“Approaching Abinadi,”",
+        "citation": "Interpreter: A Journal of Mormon Scripture 28 (2018): 257–60."
+      },
+      {
+        "title": "“The Divine Council in the Hebrew Bible and the Book of Mormon,”",
+        "citation": "Interpreter: A Journal of Mormon Scripture 27 (2017): 155–80."
+      },
+      {
+        "title": "“‘In the Land of the Chaldeans’: The Search for Abraham’s Homeland Revisited,”",
+        "citation": "BYU Studies Quarterly 56, no. 3 (2017): 7–37."
+      },
+      {
+        "title": "With Richard E. Turley Jr., “Record-Keeping Technology among God’s People in Ancient and Modern Times,”",
+        "citation": "in “To Seek the Law of the Lord”: Essays in Honor of John W. Welch, ed. Paul Y. Hoskisson and Daniel C. Peterson (Orem, UT: The Interpreter Foundation, 2017), 467–94."
+      },
+      {
+        "title": "“Bibliography of Selected Published Works of John W. Welch,”",
+        "citation": "in “To Seek the Law of the Lord”: Essays in Honor of John W. Welch, ed. Paul Y. Hoskisson and Daniel C. Peterson (Orem, UT: The Interpreter Foundation, 2017), 521–43."
+      },
+      {
+        "title": "With John W. Welch, Neal Rappleye, David J. Larsen, and Taylor Halverson. Knowing Why: 137 Evidences That the Book of Mormon is True",
+        "citation": "(American Fork, UT: Covenant Communications, 2017)."
+      },
+      {
+        "title": "“The Council of Fifty and Its Minutes: A Review,”",
+        "citation": "Interpreter: A Journal of Mormon Scripture 23 (2016): 45–52."
+      },
+      {
+        "title": "“Reading A Pentecostal Reads the Book of Mormon,”",
+        "citation": "Interpreter: A Journal of Mormon Scripture 21 (2016): 291–301."
+      },
+      {
+        "title": "“Mormonism at Oxford and What It Signifies,”",
+        "citation": "Interpreter: A Journal of Mormon Scripture 19 (2016): 241–45."
+      },
+      {
+        "title": "“Telling the Story of the Coming Forth of the Book of Mormon,”",
+        "citation": "Interpreter: A Journal of Mormon Scripture 19 (2016): 67–82."
+      },
+      {
+        "title": "“The ‘Fiery Darts of the Adversary’ in 1 Nephi 15:24,”",
+        "citation": "Interpreter: A Journal of Mormon Scripture 18 (2016): 5–9."
+      },
+      {
+        "title": "“Vanquishing the Mormon Menace,”",
+        "citation": "Interpreter: A Journal of Mormon Scripture 17 (2016): 171–76."
+      },
+      {
+        "title": "With Quinten Barney, “The Book of the Dead as a Temple Text and the Implications for the Book of Abraham,”",
+        "citation": "in The Temple: Ancient and Restored, ed. Stephen D. Ricks and Donald W. Parry, The Temple on Mount Zion 3 (Orem and Salt Lake City, UT: The Interpreter Foundation and Eborn Books, 2016), 183–209."
+      },
+      {
+        "title": "With Paul Y. Hoskisson, “Was Noah’s Flood the Baptism of the Earth?”",
+        "citation": "in Let Us Reason Together: Essays in Honor of the Life’s Work of Robert L. Millet, ed. J. Spencer Fluhman and Brent L. Top (Provo, UT and Salt Lake City, UT: Religious Studies Center, Neal A. Maxwell Institute for Religious Scholarship, and Deseret Book, 2016), 163–88."
+      },
+      {
+        "title": "“Book Reviews,”",
+        "citation": "Studia Antiqua: A Student Journal for the Study of the Ancient World 13, no. 2 (Fall 2014): 47–49."
+      },
+      {
+        "title": "“Psalm 82: A Latter-day Saint Reading,”",
+        "citation": "in 2014 BYU Religious Education Student Symposium (Provo, UT: Religious Studies Center, 2014), 155–67."
+      },
+      {
+        "title": "“Help for the Troubled ‘Young Mormon’,”",
+        "citation": "Interpreter: A Journal of Mormon Scripture 8 (2014): 139–46."
+      },
+      {
+        "title": "With Neal Rappleye, “Book of Mormon Minimalists and the NHM Inscriptions: A Response to Dan Vogel,”",
+        "citation": "Interpreter: A Journal of Mormon Scripture 8 (2014): 157–85."
+      },
+      {
+        "title": "“The Divine Council in the Hebrew Bible and the Book of Mormon,”",
+        "citation": "Studia Antiqua: A Student Journal for the Study of the Ancient World 12, no. 2 (Fall 2013): 1–18."
+      },
+      {
+        "title": "“Council, Chaos, and Creation in the Book of Abraham,”",
+        "citation": "Journal of the Book of Mormon and Other Restoration Scripture 22, no. 2 (2013): 28–39."
+      },
+      {
+        "title": "“Shaken Faith Syndrome and the Case for Faith,”",
+        "citation": "Interpreter: A Journal of Mormon Scripture 2 (2012): 105–26."
+      },
+      {
+        "title": "“‘I am a Son of God’: Moses’ Ascension into the Divine Council,”",
+        "citation": "in 2012 BYU Religious Education Student Symposium (Provo, UT: Religious Studies Center, 2012), 129–43."
+      },
+      {
+        "title": "“The Faith and Reason of Michael R. Ash,”",
+        "citation": "FARMS Review 21, no. 2 (2009): 225–37."
       }
     ],
     "presentations": [
       {
-        "date": "20XX",
-        "title": "“Title of presentation or lecture”",
-        "venue": "Conference or venue · Location"
+        "date": "2026",
+        "title": "“Neue Erkenntnisse über die Heiligen der Letzten Tage im nationalsozialistischen Deutschland”",
+        "venue": "FAIR Conference, Vienna, Austria"
       },
       {
         "date": "20XX",
